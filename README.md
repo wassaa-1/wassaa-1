@@ -26,12 +26,6 @@ Animation with pure CSS & P5.js <br/>
 </p>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 <img src="https://static.codenary.co.kr/framework_logo/hadoop.png" width="50" height="50"/>
 <img src="https://static.codenary.co.kr/framework_logo/mysql.png" width="50" height="50"/>
 <img src="https://static.codenary.co.kr/framework_logo/selenium.png" width="50" height="50"/>
