@@ -27,17 +27,19 @@ Animation with pure CSS & P5.js <br/>
 </p>
 
 <p>
-<img src="https://static.codenary.co.kr/framework_logo/hadoop.png" width="50" height="50"/>
-<img src="https://static.codenary.co.kr/framework_logo/selenium.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/selenium.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/tensorflow.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/hadoop.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/nodejs.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/mongodb.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/hive.png" width="50" height="50"/>
 </p>
 
 ### Connect with me
 
 <p>
-<a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/></a>
 </p>
 
 <!-- status bar -->
