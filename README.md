@@ -38,8 +38,8 @@ Animation with pure CSS & P5.js <br/>
 ### Connect with me
 
 <p>
-  <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" width="100" height="30"/></a>
-  <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/></a>
+  <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" width="100" height="40"/></a>
+  <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white" width="100" height="40"/></a>
 </p>
 
 <!-- status bar -->
