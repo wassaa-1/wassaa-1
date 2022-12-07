@@ -38,7 +38,7 @@ Animation with pure CSS & P5.js <br/>
 ### Connect with me
 
 <p>
-  <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/></a>
 </p>
 
