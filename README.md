@@ -39,6 +39,7 @@ Animation with pure CSS & P5.js <br/>
 
 <p>
   <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white" width="100" height="30"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" width="100" height="30"/></a>
   <a href="www.naver.com"><img src="https://img.shields.io/badge/Naver_mail-03C75A?style=flat&logo=Naver&logoColor=white" width="100" height="30"/></a>
   <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" width="80" height="30"/></a>
 </p>
