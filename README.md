@@ -7,7 +7,7 @@
 :four_leaf_clover: I'm interested in Web development, ML & DL with Python <br/>
 
 <br/><br/>
-<h3 style = "font-size:50px bold;" align="center"> 🍀Languages and Tools🍀 <h3/>
+<h3 align="center"> 🍀Languages and Tools🍀 <h3/>
 <p align="center"> Skills that I've used <p/>
   <br/>
 <p align="center">
