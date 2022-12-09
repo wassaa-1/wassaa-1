@@ -8,7 +8,8 @@
 
 <br/><br/>
 <h3 align="center"> 🍀Languages and Tools🍀 <h3/>
-
+<p align="center"> Skills that I've used <p/>
+  <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
