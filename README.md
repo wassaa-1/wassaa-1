@@ -6,7 +6,6 @@
 ### About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills like Python, Java, HTML, CSS and Javascript.<br/>
-📫 How to reach me: dlscksgnl@naver.com <br/>
 
 ### Interest
 
@@ -37,7 +36,7 @@ ML & DL with Python <br/>
 
 <br/><br/>
   
-<h3 align="center"> 🤝Connect with me🤝 <h3>
+<h3 align="center"> 📫Connect with me📫 <h3>
 
 <p align="center">
   <a href="https://open.kakao.com/o/sfnbVmSe"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white" width="100" height="30"/></a>
