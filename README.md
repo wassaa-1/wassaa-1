@@ -23,8 +23,9 @@ ML & DL with Python <br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </p>
+<br/>
 
-<p>
+<p align="center">
   <img src="https://static.codenary.co.kr/framework_logo/selenium.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/tensorflow.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/hadoop.png" width="50" height="50"/>
@@ -34,6 +35,8 @@ ML & DL with Python <br/>
   <img src="https://static.codenary.co.kr/framework_logo/tailwind.png" width="50" height="50"/>
 </p>
 
+<br/><br/>
+  
 <h3 align="center"> 🍀Connect with me🍀 <h3>
 
 <p align="center">
