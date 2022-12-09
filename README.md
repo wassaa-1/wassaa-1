@@ -43,5 +43,5 @@
 <br/><br/><br/>
 
 <h3 align="center"> 🧩 My status 🧩 <h3/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassaa-1&layout=compact&theme=vue&hide_border=true" /><p/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wassaa-1&layout=compact&show_icons=true&theme=vue&hide_border=true" /><p/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassaa-1&layout=compact&theme=vue&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=wassaa-1&layout=compact&show_icons=true&theme=vue&hide_border=true" /><p/>
