@@ -7,8 +7,8 @@
 :four_leaf_clover: I'm interested in Web development, ML & DL with Python <br/>
 
 <br/><br/>
-<h3 align="center"> 🍀Languages and Tools🍀 <h3/>
-<p align="center"> Skills that I've used <p/>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<p align="center">Techs that I've used</p>
   <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
