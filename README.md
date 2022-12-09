@@ -9,7 +9,7 @@
 ### Interest
 
 Web development <br/>
-Animation with pure CSS & P5.js <br/>
+ML & DL with Python <br/>
 
 ### Latest Projects
 [Git_merge_practice](https://github.com/wassaa-1/merge_3.2_before_fast_forward)
