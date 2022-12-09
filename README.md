@@ -13,7 +13,7 @@
 Web development <br/>
 ML & DL with Python <br/>
 
-<h3 align="center"> 🍀Languages and Tools🍀 <h3/>
+<h2 align="center"> 🍀Languages and Tools🍀 <h2/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
