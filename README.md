@@ -7,7 +7,7 @@
 :four_leaf_clover: I'm interested in Web development, ML & DL with Python <br/>
 
 <br/><br/>
-<h3 align="center">💪 Language & Skills 💪</h3>
+<h3 align="center">💪 Languages & Skills 💪</h3>
 <p align="center">Tools that I've used</p>
   <br/>
 <p align="center">
@@ -42,6 +42,7 @@
 </p>
 <br/><br/><br/>
 
-<h3 align="center"> 🧩 My status 🧩 <h3/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassaa-1&layout=compact&theme=vue&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=wassaa-1&layout=compact&show_icons=true&theme=vue&hide_border=true" /><p/>
+<h3 align="center"> 🧩 Language that I use often 🧩 <h3/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassaa-1&layout=compact&theme=vue&hide_border=true" />
+<p/>
