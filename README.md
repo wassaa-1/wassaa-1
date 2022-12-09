@@ -45,6 +45,7 @@ ML & DL with Python <br/>
   <a href="https://www.gmail.com"><img src="https://img.shields.io/badge/Gmail-dlscjsgnl@gmail.com-EEEEEE?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.naver.com"><img src="https://img.shields.io/badge/Naver-dlscksgnl@naver.com-EEEEEE?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
+<br/><br/><br/>
 
 <!-- status bar -->
   <p align="center">
