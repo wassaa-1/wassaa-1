@@ -13,9 +13,6 @@
 Web development <br/>
 ML & DL with Python <br/>
 
-### Latest Projects
-[Git_merge_practice](https://github.com/wassaa-1/merge_3.2_before_fast_forward)
-
 ### Languages and Tools
 
 <p>
