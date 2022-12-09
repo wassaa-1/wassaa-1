@@ -13,9 +13,9 @@
 Web development <br/>
 ML & DL with Python <br/>
 
-### Languages and Tools
+<h3 align="center"> Languages and Tools <h3/>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/>
@@ -34,9 +34,9 @@ ML & DL with Python <br/>
   <img src="https://static.codenary.co.kr/framework_logo/tailwind.png" width="50" height="50"/>
 </p>
 
-### Connect with me
+<h3 align="center"> 🍀Connect with me🍀 <h3>
 
-<p>
+<p align="center">
   <a href="https://open.kakao.com/o/sfnbVmSe"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white" width="100" height="30"/></a>
   <a href="https://www.instagram.com/p15ch_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" width="100" height="30"/></a><br/>
   <a href="https://www.gmail.com"><img src="https://img.shields.io/badge/Gmail-dlscjsgnl@gmail.com-EEEEEE?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
