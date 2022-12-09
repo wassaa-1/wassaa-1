@@ -7,7 +7,7 @@
 :four_leaf_clover: I'm interested in Web development, ML & DL with Python <br/>
 
 <br/><br/>
-<h2 align="center"> 🍀Languages and Tools🍀 <h2/>
+<h1 align="center"> 🍀Languages and Tools🍀 <h1/>
 <p align="center"> Skills that I've used <p/>
   <br/>
 <p align="center">
