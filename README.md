@@ -41,7 +41,7 @@ ML & DL with Python <br/>
   <a href="https://www.instagram.com/p15ch_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" width="100" height="30"/></a>
   <a href="www.naver.com"><img src="https://img.shields.io/badge/Naver_mail-03C75A?style=flat&logo=Naver&logoColor=white" width="100" height="30"/></a>
   <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" width="80" height="30"/></a>
-  <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Gmail-dlscjsgnl@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Gmail-dlscjsgnl@gmail.com-EEEEEE?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
 </p>
 
 <!-- status bar -->
