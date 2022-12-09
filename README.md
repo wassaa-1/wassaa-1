@@ -32,6 +32,7 @@ Animation with pure CSS & P5.js <br/>
   <img src="https://static.codenary.co.kr/framework_logo/nodejs.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/mongodb.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/hive.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/tailwind.png" width="50" height="50"/>
 </p>
 
 ### Connect with me
