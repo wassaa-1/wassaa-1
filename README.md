@@ -3,11 +3,8 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am In, Full Stack Web Developer from :kr: Incheon, Republic of Korea 
 
-### About me
-
 :four_leaf_clover: I’m currently learning Basic Programming skills like Python, Java, HTML, CSS and Javascript.<br/>
-Web development <br/>
-ML & DL with Python <br/>
+:four_leaf_clover: I'm interested in Web development, ML & DL with Python <br/>
 
 <br/><br/>
 <h3 align="center"> 🍀Languages and Tools🍀 <h3/>
