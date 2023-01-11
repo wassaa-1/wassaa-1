@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 </p>
 <br/>
 
@@ -28,6 +29,7 @@
   <img src="https://static.codenary.co.kr/framework_logo/mongodb.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/hive.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/tailwind.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/reactjs.png" width="50" height="50"/>
 </p>
 
 <br/><br/>
