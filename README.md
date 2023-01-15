@@ -30,6 +30,7 @@
   <img src="https://static.codenary.co.kr/framework_logo/hive.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/tailwind.png" width="50" height="50"/>
   <img src="https://static.codenary.co.kr/framework_logo/reactjs.png" width="50" height="50"/>
+  <img src="https://static.codenary.co.kr/framework_logo/flutter.png" width="50" height="50"/>
 </p>
 
 <br/><br/>
