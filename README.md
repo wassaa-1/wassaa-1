@@ -47,6 +47,5 @@
 
 <h3 align="center"> 🧩 Language that I use often 🧩 <h3/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassaa-1"/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassaa-1)](https://github.com/anuraghazra/github-readme-stats)
 <p/>
